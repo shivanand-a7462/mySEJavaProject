@@ -30,7 +30,8 @@ public class myAppTester {
 			display(nw);
 			
 		}
-	
+	//this is the code to display the aray using the for loop
+		//it is the function out of the main
 		public static void display(int [] a)
 		{
 			for (int i = 0; i < a.length; i++) {
